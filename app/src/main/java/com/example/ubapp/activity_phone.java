@@ -36,7 +36,7 @@ public class activity_phone extends AppCompatActivity {
                     phoneNumber.requestFocus();
                     return;
                 }
-                String number="+91"+phoneNumber;
+                String number="+91"+phno;
                 Intent intent=new Intent(activity_phone.this,activity_otp.class);
                 intent.putExtra("phonenumber",number);
                 startActivity(intent);
