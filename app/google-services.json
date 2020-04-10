@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856309691649",
+    "firebase_url": "https://ubapp-f22db.firebaseio.com",
+    "project_id": "ubapp-f22db",
+    "storage_bucket": "ubapp-f22db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856309691649:android:bcf203425f7ce332c4d700",
+        "android_client_info": {
+          "package_name": "com.example.ubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856309691649-25jm5i4188i471d66c7tteornqfhhck4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ubapp",
+            "certificate_hash": "fae321593a44a46d7a5c084497ddbb8a0d8e86e7"
+          }
+        },
+        {
+          "client_id": "856309691649-240veb70eej4kffora4699qirc244map.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-p-u7yEJKUMnsDuuQC9gWEq5QHztSGdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856309691649-240veb70eej4kffora4699qirc244map.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
